@@ -46,7 +46,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Beranda Cafe
+          Go to Cafe
         </a>
       </header>
     </div>
